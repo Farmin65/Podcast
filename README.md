@@ -114,12 +114,6 @@ python main.py
 
 Документация API: http://localhost:8000/docs
 
-### 8. Запуск через Docker
-
-```bash
-docker-compose up -d
-```
-
 ---
 
 ## Аутентификация
